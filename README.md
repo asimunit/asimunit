@@ -156,7 +156,7 @@ Currently leading AI/ML initiatives at **University Living**, previously **Senio
 
 ---
 
-## 🌟 Featured Projects & Achievements
+## 🌟 Featured Projects & Real-Time Stats
 
 <div align="center">
 
@@ -164,6 +164,10 @@ Currently leading AI/ML initiatives at **University Living**, previously **Senio
 *Human-like conversational AI for accommodation booking with 50% conversion improvement*
 <br>
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/asimunit/ai-voice-assistant)
+![Stars](https://img.shields.io/github/stars/asimunit/ai-voice-assistant?style=flat&color=yellow&logo=star)
+![Forks](https://img.shields.io/github/forks/asimunit/ai-voice-assistant?style=flat&color=blue&logo=fork)
+![Issues](https://img.shields.io/github/issues/asimunit/ai-voice-assistant?style=flat&color=red&logo=exclamation)
+<br>
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
@@ -172,6 +176,10 @@ Currently leading AI/ML initiatives at **University Living**, previously **Senio
 *Self-correcting multi-agent system improving F1 score from 0.85 to 0.95*
 <br>
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/asimunit/multi-agent-system)
+![Stars](https://img.shields.io/github/stars/asimunit/multi-agent-system?style=flat&color=yellow&logo=star)
+![Forks](https://img.shields.io/github/forks/asimunit/multi-agent-system?style=flat&color=blue&logo=fork)
+![Last Commit](https://img.shields.io/github/last-commit/asimunit/multi-agent-system?style=flat&color=green&logo=github)
+<br>
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
@@ -179,6 +187,10 @@ Currently leading AI/ML initiatives at **University Living**, previously **Senio
 *Retrieval-Augmented Generation pipeline with context-aware responses*
 <br>
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/asimunit/rag-chatbot)
+![Stars](https://img.shields.io/github/stars/asimunit/rag-chatbot?style=flat&color=yellow&logo=star)
+![Language](https://img.shields.io/github/languages/top/asimunit/rag-chatbot?style=flat&color=blue&logo=python)
+![Size](https://img.shields.io/github/repo-size/asimunit/rag-chatbot?style=flat&color=green&logo=database)
+<br>
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=meta&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
@@ -186,6 +198,10 @@ Currently leading AI/ML initiatives at **University Living**, previously **Senio
 *Neo4j-powered entity extraction processing 100K daily documents*
 <br>
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/asimunit/knowledge-graph)
+![Stars](https://img.shields.io/github/stars/asimunit/knowledge-graph?style=flat&color=yellow&logo=star)
+![Contributors](https://img.shields.io/github/contributors/asimunit/knowledge-graph?style=flat&color=orange&logo=users)
+![Activity](https://img.shields.io/github/commit-activity/m/asimunit/knowledge-graph?style=flat&color=purple&logo=pulse)
+<br>
 ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=flat&logo=neo4j&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=flat&logo=google&logoColor=white)
 
@@ -193,6 +209,10 @@ Currently leading AI/ML initiatives at **University Living**, previously **Senio
 *ML-powered financial risk assessment handling millions of requests*
 <br>
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/asimunit/smart_loan)
+![Stars](https://img.shields.io/github/stars/asimunit/smart_loan?style=flat&color=yellow&logo=star)
+![Forks](https://img.shields.io/github/forks/asimunit/smart_loan?style=flat&color=blue&logo=fork)
+![Downloads](https://img.shields.io/github/downloads/asimunit/smart_loan/total?style=flat&color=green&logo=download)
+<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
@@ -200,6 +220,10 @@ Currently leading AI/ML initiatives at **University Living**, previously **Senio
 *Advanced facial recognition with production-ready deployment*
 <br>
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/asimunit/face_recognition)
+![Stars](https://img.shields.io/github/stars/asimunit/face_recognition?style=flat&color=yellow&logo=star)
+![Watchers](https://img.shields.io/github/watchers/asimunit/face_recognition?style=flat&color=blue&logo=eye)
+![License](https://img.shields.io/github/license/asimunit/face_recognition?style=flat&color=green&logo=law)
+<br>
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
 
