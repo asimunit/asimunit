@@ -119,11 +119,3 @@ I'm a passionate **Python Developer** and **Machine Learning Enthusiast** curren
 ⭐️ From [asimunit](https://github.com/asimunit)
 
 </div>
-
----
-
-<div align="center">
-  
-![Snake animation](https://github.com/asimunit/asimunit/blob/output/github-contribution-grid-snake.svg)
-
-</div>
